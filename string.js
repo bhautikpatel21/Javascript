@@ -40,7 +40,7 @@
 
 // console.log(data.substr(5,12));     // cript is the 
 // console.log(data.substr(-15,12));     // mming langua
-
+    
 
 // console.log(data.toUpperCase());
 // console.log(data.toUpperCase());
