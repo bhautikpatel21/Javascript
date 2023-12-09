@@ -43,7 +43,7 @@
     
 
 // console.log(data.toUpperCase());
-// console.log(data.toUpperCase());
+// console.log(data.toUpperCase()); 
 
 
 // console.log(data.concat(" Hello world","\n skillQode"));
