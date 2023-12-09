@@ -1,8 +1,8 @@
 // Map method 
-// let data = new Map ([["BMw",100],["Audi",200],["Toyoto",300]]);
+ let data = new Map ([["BMw",100],["Audi",200],["Toyoto",300]]);
 
-// data.set("Alto",500);
-// data.set("Neno",600);
+ data.set("Alto",500);
+ data.set("Neno",600);
 
 // console.log(data);
 
@@ -10,7 +10,7 @@
 // data.clear();
 // data.delete("Alto");
 // console.log(data.entrier());
-// console.log(data.get("BMW"));
+ console.log(data.get("BMW"));
 // console.log(data.has("Bmw"));
 // console.log(data.keys());
 // console.log(data.value());

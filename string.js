@@ -62,8 +62,9 @@
 // console.log(txt.trimEnd());      // remove extra space from end
 // console.log ("Length is : ",+(txt.trimEnd()).lenght);
 
-let txt = "1234";
-console.log(txt.padStart(8,"-"));
-console.log(txt.padEnd(8,"*"));
+// let txt = "1234";
+// console.log(txt.padStart(8,"-"));
+// console.log(txt.padEnd(8,"*"));
 
-console.log(data.split("a"));
+// console.log(data.split("a"));
+
