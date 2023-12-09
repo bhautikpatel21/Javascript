@@ -6,7 +6,7 @@
 
 // console.log(data);
 
-// console.log(data,size);
+// console.log(data.size);
 // data.clear();
 // data.delete("Alto");
 // console.log(data.entrier());
