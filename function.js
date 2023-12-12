@@ -40,3 +40,7 @@
 // };
 
 // skill();
+
+(function(){
+    let x = "Hello! i called myself";
+})
