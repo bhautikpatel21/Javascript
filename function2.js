@@ -107,23 +107,23 @@
 
 // apply method
 
-let person = {
-  fullname: function (city) {
-    return this.firstName + " " + this.lastName + "\nCity : " + city;
-  },
-};
+// let person = {
+//   fullname: function (city) {
+//     return this.firstName + " " + this.lastName + "\nCity : " + city;
+//   },
+// };
 
-let hello = {
-  firstName: "Skill",
-  lastName: "Qode",
-};
+// let hello = {
+//   firstName: "Skill",
+//   lastName: "Qode",
+// };
 
-let data = {
-  firstName: "Virat",
-  lastName: "Kohli",
-};
+// let data = {
+//   firstName: "Virat",
+//   lastName: "Kohli",
+// };
 
-console.log(person.fullname.apply(data, ["surat"]) );
+// console.log(person.fullname.apply(data, ["surat"]) );
 
 // bind method
 
