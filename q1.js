@@ -18,10 +18,10 @@
 //   Write a JS function that returns a passed string with letters in alphabetical order 
 
 // function arr(str){
-//     return str  . split('').sort().join('');
+//     return str. split('').sort().join('');
 // }
 
-// console.log(arr("developer"));
+//  console.log(arr("developer"));
 
 //  Write a JS function that accepts a string as a parameter and converts the first letter of each word of the string in upper case
 
@@ -65,21 +65,21 @@
 //   console.log(longest);  // Output: 'Development'  
 
 // 5.
-function isPerfectNumber(number) {
-    let sum = 0;
+// function isPerfectNumber(number) {
+//     let sum = 0;
   
-    for (let i = 1; i < number; i++) {
-      if (number % i === 0) {
-        sum += i;
-      }
-    }
+//     for (let i = 1; i < number; i++) {
+//       if (number % i === 0) {
+//         sum += i;
+//       }
+//     }
   
-    if (sum === number) {
-      console.log("perfect");
-    } else {
-      console.log("not perfect");
-    }
-  }
-  let number = Number(prompt("enter value"));
-  console.log(number);
-  isPerfectNumber(number);
+//     if (sum === number) {
+//       console.log("perfect");
+//     } else {
+//       console.log("not perfect");
+//     }
+//   }
+//   let number = Number(prompt("enter value"));
+//   console.log(number);
+//   isPerfectNumber(number);
