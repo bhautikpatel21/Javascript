@@ -1,19 +1,14 @@
-// console.log("Bhautik");
+//  || : javascript settimeout : || 
 
-// let d = new Date();
-// console.log(d); 
+ setTimeout(function, milliseconds);
 
-// let d  = new Date("March 31,2024 11:13:00");
-// console.log(d);
+    // function - a function containing a block of code
+    // milliseconds - the time after which the function is executed
 
-// let d = new Date();
-// d.toString();
-// console.log(d);
-
-// let d = new Date();
-// d.toDateString();
-// console.log(d);
-
-let d = new Date();
-d.toUTCString();
-console.log(d);
+    function greet() {
+        console.log('Hello world');
+    }
+    // greet();
+    setTimeout(greet, 2000);
+    console.log('This message is shown first');
+    console.log('1 Today to much Rain...');
