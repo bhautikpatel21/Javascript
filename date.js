@@ -1,7 +1,7 @@
 // Date Methods
 
 // let d = new Date();
-let d = new Date("2023-05-01 10:30 AM");
+// let d = new Date("2023-05-01 10:30 AM");
 // year, month, date, hour, minute, second => month (0-11)
 // let d = new Date(2021,1,15,28,15,70);
 // let d = new Date(2021,1,15,28,15,70);

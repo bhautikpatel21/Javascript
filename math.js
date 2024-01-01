@@ -12,8 +12,8 @@
 
 //     || MATH METHODS ||
 
-console.log(Math.round(4,6));     // 5  returns the nearest integer
-console.log(Math.round(4,3));     // 4
+console.log(Math.round(4.6));     // 5  returns the nearest integer
+console.log(Math.round(4.3));     // 4
 
 console.log(Math.ceil(4.6));     // 5  returns the value of x rounded up to tis nearest integer
 console.log(Math.ceil(4.2));     // 5

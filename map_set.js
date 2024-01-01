@@ -36,7 +36,7 @@
 // arr.keys();
 // console.log(arr.keys());
 // console.log(arr.values());
-// console.log(arr.antries());
+// console.log(arr.entries());
 
 // let txt = "";
 // arr.forEach((str) => {
