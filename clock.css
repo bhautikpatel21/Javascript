@@ -1,0 +1,27 @@
+#digital-watch {
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     font-family: Arial, sans-serif;
+     font-size: 48px;
+    color: blue;
+     }
+    
+     #hours,
+     #minutes,
+     #seconds,
+     #millisecound{
+     margin: 0 10px;
+     }
+     
+     #the {
+    
+     display :flex;
+     justify-content: center;
+     align-items: center;
+     font-family: Arial, sans-serif;
+     font-size: 25px;
+     color: red; 
+    
+    
+     }
