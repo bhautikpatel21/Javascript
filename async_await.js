@@ -1,6 +1,6 @@
 // || : Javascript async/await : ||
 
-//  we use the async keyword With a function to represent that tha function is an asynchronuos function. The astnc functioon returns a promise
+//  we use the async keyword With a function to represent that the function is an asynchronuos function. The async functioon returns a promise
 {
 // async function fun_name(parameter1,parameter2,... parameterN){
     // statements
