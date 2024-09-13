@@ -8,8 +8,8 @@ typeof
 // console.log(5**3);
 
 
-// console.log(10 == 10) // only value chaeck
-// console.log(10 == "10")// only value chaeck
+// console.log(10 == 10) // only value check
+// console.log(10 == "10")// only value check
 // console.log(10 === "10")// value chaeck and data type check
 // console.log(5 != "5")
 // console.log(5 !== "5")
